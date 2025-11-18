@@ -1,2 +1,2 @@
 "# myjournal" 
-![grammy](https://github.com/user-attachments/assets/a0b195c9-e96c-4e4e-8cba-10fcf4681e62)
+https://github.com/josephmceavens45-png/Mceavens/raw/1530d5731d7867ea6770baf0cf7138fdbc952a3a/README.md
